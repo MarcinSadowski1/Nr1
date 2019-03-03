@@ -1,6 +1,6 @@
-public class HelloWorld {
+public class Java2 {
     public static void main(String[] args) {
-        HelloWorld helloWorld1 = new HelloWorld();
+        Java2 helloWorld1 = new Java2();
 //        helloWorld1.printHello();
         helloWorld1.inkrementacjaTest();
 
@@ -24,9 +24,4 @@ public class HelloWorld {
         System.out.println(++i);
     }
 
-
-
 }
-
-
-
