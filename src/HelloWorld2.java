@@ -18,7 +18,6 @@ public class HelloWorld2 {
         System.out.println(getHelloMessage(false));
 
 
-
     }
 
 }
